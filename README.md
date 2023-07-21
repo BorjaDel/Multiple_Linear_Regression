@@ -8,4 +8,4 @@ LinkedIn: [https://www.linkedin.com/in/borja-delgado-gonzalez/](https://www.link
 ---
 ##Disclaimer
 
-El algoritmo de predicció no pretende ser óptimo. Partiendo de la base que faltan muchos datos de venta y tendremos que sintetizarlos.
+El algoritmo de predicción no pretende ser óptimo. Partiendo de la base que faltan muchos datos de venta y tendremos que sintetizarlos.
